@@ -34,7 +34,7 @@ While simple, these models show general patterns of behavior:
 <img src="https://github.com/marrick66/SystemsEmpowerment/blob/main/images/FairyTaleDesign.png" height="300" width="600" />
 
 ### How it really works:
-<img src="https://github.com/marrick66/SystemsEmpowerment/blob/main/images/DesignSquiggle.png" height="300" width="600" />
+<img src="https://github.com/marrick66/SystemsEmpowerment/blob/main/images/designsquiggle.png" height="300" width="600" />
 
 ## Some useful references/tools:
 * "Thinking in Systems (link)"
