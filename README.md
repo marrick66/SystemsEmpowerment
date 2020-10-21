@@ -2,8 +2,8 @@
 
 ## A model of organizational operation with traditional feedback:
 
-![Image](../images/traditional.gif)
+![Image](./images/traditional.gif)
 
 ## A model of organizational operation with teams and individuals empowered to act:
 
-![Image](../images/empowered.gif)
+![Image](./images/empowered.gif)
