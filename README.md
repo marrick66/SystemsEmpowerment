@@ -3,7 +3,7 @@
 The components, teams, and individuals of an organization are heavily interdependent, in spite of
 ## A model of organizational operation with traditional feedback:
 
-![Image](https://github.com/marrick66/SystemsEmpowerment/blob/main/images/Traditional.gif =300x200)
+<img src="https://github.com/marrick66/SystemsEmpowerment/blob/main/images/Traditional.gif" height="300" width="200" />
 
 ## A model of organizational operation with teams and individuals empowered to act:
 
